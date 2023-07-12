@@ -1,0 +1,9 @@
+### .dat file speficifation ###
+
+file:
+	uint 32 - number of scans in file
+	uint 32 - x resolution of scans
+	uint 32 - y resolution of scans
+	for each scan:
+		points as 3 float values organized by horizontal lines
+		invalid points are placed to the origin (zeroes)

@@ -1,0 +1,25 @@
+1.
+https://liveuniba-my.sharepoint.com/:f:/g/personal/skorvankova11_uniba_sk/EpB22fdLMwxIkGOCB1RSINMBmLYkpQRWihCuNA-EF-wf8g?e=Zc9Xr8
+
+2.
+https://liveuniba-my.sharepoint.com/:f:/g/personal/skorvankova11_uniba_sk/ElAgLFDilrFAhHAdzbdgygEBGan6KpI-fgmkj7Fz4ATGSw?e=ehtrka
+
+3.a (female)
+https://liveuniba-my.sharepoint.com/:f:/g/personal/skorvankova11_uniba_sk/EoXw-SLPzFNAssQnD5qEi00Bc_Cf66VqVjMib4UBwPzcZQ?e=dCu3da
+
+3.b (male)
+https://liveuniba-my.sharepoint.com/:f:/g/personal/skorvankova11_uniba_sk/EmelUHlTLz9Li8zEpEh5syMBKWSDc0A-jS0dMDgBT1Gtqw?e=3Ca1NK
+
+4.
+https://liveuniba-my.sharepoint.com/:f:/g/personal/skorvankova11_uniba_sk/ElXZpEAz4tNKpGqc5p4DfEAByt0jheACmvMdNcbqgbKTMg?e=dReVqi
+
+5.
+https://liveuniba-my.sharepoint.com/:f:/g/personal/skorvankova11_uniba_sk/Es9vDIt1JJ5OhGPLffxQZu8BHDKJGQjMozQYPPFLtOq26g?e=OZdm4A
+
+
+.dat file specification:
+
+https://liveuniba-my.sharepoint.com/:t:/g/personal/skorvankova11_uniba_sk/EVZk2S4j39JBvkLWn_NFT28Bxf2tnTYsOFV50ukamMwmKw?e=ebsNxL
+
+script for reading .dat in matlab:
+https://liveuniba-my.sharepoint.com/:u:/g/personal/skorvankova11_uniba_sk/EfJyqw7ARLpGkSoR7Nd_jx0Bp_Y4uN6ZfY2DWKbTb78jWQ?e=Mph0sa
